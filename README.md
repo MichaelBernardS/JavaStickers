@@ -12,7 +12,7 @@ Este projeto é uma aplicação utilizando o Java, para a criação de Stickers 
 - Java (Versão 17)
 - VSCode IDE
 
-# Como executar o projeto
+🛠️ # Como executar o projeto
 
 ```bash
 # clonar repositório
