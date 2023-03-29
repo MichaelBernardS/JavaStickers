@@ -31,11 +31,8 @@ public class JsonParser {
                 String valor = matcherAtributosJson.group(2);
                 atributosItem.put(atributo, valor);
             }
-
             dados.add(atributosItem);
         }
-
         return dados;
     } 
-
 }
