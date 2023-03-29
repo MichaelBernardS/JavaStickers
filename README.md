@@ -15,7 +15,7 @@ Este projeto é uma aplicação utilizando o Java, para a criação de Stickers 
 
 ```bash
 # clonar repositório
-git clone https://github.com/MichaelBernardS/workshop-spring3-jpa.git
+git clone git@github.com:MichaelBernardS/JavaStickers.git
 ```
 
 # Autor
