@@ -1,9 +1,8 @@
 # JavaStickers
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Projeto Java Stickers - Imersão Java Alura
 [![NPM](https://img.shields.io/badge/license-MIT-green)](https://github.com/MichaelBernardS/workshop-spring3-jpa/blob/main/LICENSE)
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Sobre o projeto
 
